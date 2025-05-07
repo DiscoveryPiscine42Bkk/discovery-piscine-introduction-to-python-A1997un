@@ -5,5 +5,5 @@ if number_1 < 0:
     print("This number is negative.")
 elif number_1 > 0:
     print("This number is positive.")
-elif number_1 == 0:
+elif number_1 == 0: 
     print("This number is both positive and negative.")

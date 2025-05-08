@@ -1,2 +1,3 @@
 def checkmate(board):
-    print(board)
+    for
+    

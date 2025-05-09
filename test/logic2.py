@@ -40,7 +40,7 @@
 #     print("Fail")
 
 def p_check(x, y, king_x, king_y):
-    # โจมตีเฉียงซ้ายหรือขวาขึ้นด้านบน (ตามบอร์ดจากล่างขึ้นบน)
+   
     return (x - 1 == king_x and y - 1 == king_y) or (x + 1 == king_x and y - 1 == king_y)
 
 def check_direction(board, x, y, dx, dy, king_x, king_y):

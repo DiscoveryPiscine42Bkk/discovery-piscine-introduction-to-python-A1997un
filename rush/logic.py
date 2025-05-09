@@ -1,3 +1,0 @@
-def checkmate(board):
-    for
-    
